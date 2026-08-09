@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Rounded background -->
+  <rect width="32" height="32" rx="8" fill="url(#bg-grad)" />
+  
+  <!-- Magnifying glass lens and handle -->
+  <path d="M14 7 A 5.5 5.5 0 1 0 14 18 A 5.5 5.5 0 1 0 14 7 M18 18 L 25 25" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  
+  <!-- Mini Bar Chart inside the lens -->
+  <rect x="11.5" y="13.5" width="1.5" height="3" fill="#ffffff" rx="0.5" />
+  <rect x="14" y="10.5" width="1.5" height="6" fill="#ffffff" rx="0.5" />
+  <rect x="16.5" y="12" width="1.5" height="4.5" fill="#ffffff" rx="0.5" />
+</svg>
