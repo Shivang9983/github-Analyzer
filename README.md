@@ -66,4 +66,4 @@ Developed and maintained by **Shivang Kumar Singh**.
 
 ---
 
-*Made with ❤️ by [Shivang Kumar Singh](https://github.com/Shivang9983)*
+*Made by [Shivang Kumar Singh](https://github.com/Shivang9983)*
